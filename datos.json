@@ -1,0 +1,20 @@
+{
+    "nombre": "Adrian Jesus Ochoa Fillippo",
+    "edad": 16,
+    "altura": 1.8,
+    "estudiante": true,
+    "pasatiempos": [
+        "jugar",
+        "Dibujar"
+    ],
+    "informacion": {
+        "Direccion": "calle",
+        "Numero": 11
+    },
+    "Animal": [
+        {
+            "Nombre": "Tita",
+            "Especie": "Canino"
+        }
+    ]
+}
