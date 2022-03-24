@@ -3,14 +3,10 @@
     "edad": 16,
     "altura": 1.8,
     "estudiante": true,
-    "pasatiempos": [
+    "pasatiempo": [
         "jugar",
-        "Dibujar"
+        "dibujar"
     ],
-    "informacion": {
-        "Direccion": "calle",
-        "Numero": 11
-    },
     "Animal": [
         {
             "Nombre": "Tita",
